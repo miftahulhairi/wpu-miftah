@@ -1,4 +1,6 @@
 RENCANA KONTEN WPU
 
 - javascript
+  * ES6
+  * Framework
 - visual studio code
