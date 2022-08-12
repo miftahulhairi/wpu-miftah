@@ -3,4 +3,5 @@ RENCANA KONTEN WPU
 - javascript
   * ES6
   * Framework
+- Struktur data dasar
 - visual studio code
