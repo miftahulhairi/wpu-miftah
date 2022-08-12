@@ -2,7 +2,7 @@ RENCANA KONTEN WPU
 
 - javascript
   * ES6
-  * Framework
+  * Framework Javascript
    ^ Vue
    ^ React
 - Struktur data dasar
